@@ -1,2 +1,2 @@
 # EmailSender
-<h3> Sending Emails using python - smtplib
+<h3> Sending Emails using Python - smtplib
